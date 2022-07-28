@@ -1,0 +1,15 @@
+.responsive {
+    max-width: 620px;
+}
+.carousel-item img{
+    opacity: 40%;
+}
+
+
+
+@media screen and (max-width:992px) {
+    .responsive {
+        max-width: none;
+    }
+
+}
